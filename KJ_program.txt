@@ -4,3 +4,6 @@ Lannisters
 Starks
 Baratheons
 Targaryens
+
+Greyjoys
+KarStarks
